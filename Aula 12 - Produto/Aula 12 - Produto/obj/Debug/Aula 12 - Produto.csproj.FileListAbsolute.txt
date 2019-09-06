@@ -1,0 +1,7 @@
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 12 - Produto\Aula 12 - Produto\bin\Debug\Aula 12 - Produto.exe.config
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 12 - Produto\Aula 12 - Produto\bin\Debug\Aula 12 - Produto.exe
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 12 - Produto\Aula 12 - Produto\bin\Debug\Aula 12 - Produto.pdb
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 12 - Produto\Aula 12 - Produto\obj\Debug\Aula 12 - Produto.csprojAssemblyReference.cache
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 12 - Produto\Aula 12 - Produto\obj\Debug\Aula 12 - Produto.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 12 - Produto\Aula 12 - Produto\obj\Debug\Aula 12 - Produto.exe
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 12 - Produto\Aula 12 - Produto\obj\Debug\Aula 12 - Produto.pdb
