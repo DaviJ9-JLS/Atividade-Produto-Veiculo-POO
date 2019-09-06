@@ -1,0 +1,7 @@
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 13 - Veiculo\Aula 13 - Veiculo\bin\Debug\Aula 13 - Veiculo.exe.config
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 13 - Veiculo\Aula 13 - Veiculo\bin\Debug\Aula 13 - Veiculo.exe
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 13 - Veiculo\Aula 13 - Veiculo\bin\Debug\Aula 13 - Veiculo.pdb
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 13 - Veiculo\Aula 13 - Veiculo\obj\Debug\Aula 13 - Veiculo.csprojAssemblyReference.cache
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 13 - Veiculo\Aula 13 - Veiculo\obj\Debug\Aula 13 - Veiculo.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 13 - Veiculo\Aula 13 - Veiculo\obj\Debug\Aula 13 - Veiculo.exe
+D:\Cursos\Curso Programação orientada a objetos C#\Projetos\source\Aula 13 - Veiculo\Aula 13 - Veiculo\obj\Debug\Aula 13 - Veiculo.pdb
